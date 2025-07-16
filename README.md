@@ -60,11 +60,6 @@ This solution is designed to aid **healthcare workers in rural areas** by provid
 
 ---
 
-## 📷 Screenshots
-*(Add screenshots here if you want)*
-
----
-
 ## 📂 Folder Structure
 Torchapp/
 ├── app/
