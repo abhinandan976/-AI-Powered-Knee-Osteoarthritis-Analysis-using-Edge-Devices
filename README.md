@@ -74,8 +74,8 @@ Torchapp/
 ---
 
 ## 💡 Future Work
-- Expand dataset with more diverse X-ray sources
-- Improve model accuracy with newer lightweight architectures
+- Expanding dataset with more diverse X-ray sources
+- Improve model accuracy with newer lightweight deeplearning model architectures
 - Integrate with additional health diagnostic services
 
 ---
