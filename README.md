@@ -61,11 +61,17 @@ This solution is designed to aid **healthcare workers in rural areas** by provid
 
 ## 📂 Folder Structure
 Torchapp/
+
 ├── app/
+
 ├── model/
+
 │ ├── mobilenetv3.pth
+
 ├── firebase/
+
 ├── README.md
+
 └── ...
 
 
