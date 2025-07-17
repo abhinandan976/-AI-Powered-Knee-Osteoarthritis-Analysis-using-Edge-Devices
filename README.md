@@ -11,7 +11,6 @@ The app is designed to perform real-time, fully offline KOA detection and severi
 ## 🎯 Key Features
 - Real-time KOA detection on Android devices (inference < 1 second)
 - KOA severity grading from **KL Grade 0 to 4**
-- **Grad-CAM heatmaps** for explainability and transparency
 - Offline-first, runs without internet
 - Firebase-backed secure Electronic Information System (EIS) for storing patient records
 - Multi-role access for doctors, radiologists, and assistants
