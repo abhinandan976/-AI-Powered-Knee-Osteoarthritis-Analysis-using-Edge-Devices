@@ -4,7 +4,7 @@
 
 This project is an **AI-powered Android application** for the **detection and grading of Knee Osteoarthritis (KOA)** from X-ray images using deep learning. It was developed as part of our **6th sem academic project** at **KLE Technological University, Belagavi**.
 
-The app is designed to perform real-time, fully offline KOA detection and severity grading, specifically tailored for rural and resource-constrained medical settings where access to radiologists is limited.
+This app is designed to perform real-time, fully offline KOA detection and severity grading, specifically tailored for rural and resource-constrained medical settings where access to radiologists is limited.
 
 ---
 
