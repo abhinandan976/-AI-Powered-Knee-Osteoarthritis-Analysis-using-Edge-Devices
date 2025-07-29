@@ -49,7 +49,7 @@ This app is designed to perform real-time, fully offline KOA detection and sever
 
 ### 📈 Flow Diagram
 
-![KOA Detection Flow Diagram](assets/flowDiagram.png)
+![KOA Detection Flow Diagram](assets/flowDiagram.jpg)
 
 1. User uploads or captures knee X-ray.  
 2. AI model runs locally using **PyTorch Mobile**.  
